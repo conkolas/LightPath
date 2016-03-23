@@ -63,23 +63,23 @@
  <Reference Include="UnityEngine.Purchasing">
  <HintPath>C:/Program Files/Unity 5.4.0b11/Editor/Data/UnityExtensions/Unity/UnityPurchasing/UnityEngine.Purchasing.dll</HintPath>
  </Reference>
- <Reference Include="Security">
- <HintPath>C:/Unity Projects/Light Path/Assets/Plugins/UnityPurchasing/Bin/Security.dll</HintPath>
- </Reference>
- <Reference Include="Apple">
- <HintPath>C:/Unity Projects/Light Path/Assets/Plugins/UnityPurchasing/Bin/Apple/Apple.dll</HintPath>
- </Reference>
  <Reference Include="Common">
  <HintPath>C:/Unity Projects/Light Path/Assets/Plugins/UnityPurchasing/Bin/Common.dll</HintPath>
+ </Reference>
+ <Reference Include="Editor">
+ <HintPath>C:/Unity Projects/Light Path/Assets/Plugins/UnityPurchasing/Bin/Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="Security">
+ <HintPath>C:/Unity Projects/Light Path/Assets/Plugins/UnityPurchasing/Bin/Security.dll</HintPath>
  </Reference>
  <Reference Include="Stores">
  <HintPath>C:/Unity Projects/Light Path/Assets/Plugins/UnityPurchasing/Bin/Stores.dll</HintPath>
  </Reference>
+ <Reference Include="Apple">
+ <HintPath>C:/Unity Projects/Light Path/Assets/Plugins/UnityPurchasing/Bin/Apple/Apple.dll</HintPath>
+ </Reference>
  <Reference Include="winrt">
  <HintPath>C:/Unity Projects/Light Path/Assets/Plugins/UnityPurchasing/winrt/winrt.dll</HintPath>
- </Reference>
- <Reference Include="Editor">
- <HintPath>C:/Unity Projects/Light Path/Assets/Plugins/UnityPurchasing/Bin/Editor.dll</HintPath>
  </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
